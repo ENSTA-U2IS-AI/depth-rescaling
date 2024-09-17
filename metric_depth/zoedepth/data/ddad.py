@@ -111,7 +111,7 @@ class DDAD(Dataset):
         self.rescale_with = config.rescale_with
         if self.rescale_with == 'sfm':
 
-            path = './train_test_inputs/ddad.json'
+            path = '/home/remi/data/DDAD/ddad_train_val/ddad.json'
 
             split = 'val'
             
