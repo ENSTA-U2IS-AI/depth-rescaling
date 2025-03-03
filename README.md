@@ -6,7 +6,7 @@
 
 U2IS - ENSTA-Paris
 
-![teaser](assets/rescaling.svg)
+![teaser](assets/rescaling.png)
 
 </div>
 
