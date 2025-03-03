@@ -10,7 +10,7 @@ U2IS - ENSTA-Paris
 
 </div>
 
-This repository contains the official implementation of the paper *Foundation Models Meet Low-Cost Sensors: Rescaling Affine-Invariant Disparity without Training for Zero-Shot Metric Depth Estimation* sumitted to ICRA 2025.
+This repository contains the official implementation of the paper *Foundation Models Meet Low-Cost Sensors: Rescaling Affine-Invariant Disparity without Training for Zero-Shot Metric Depth Estimation*.
 
 ## Installation
 
