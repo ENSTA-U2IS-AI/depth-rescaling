@@ -1,5 +1,5 @@
 <div align="center">
-<h2>Foundation Models Meet Low-Cost Sensors: Rescaling Affine-Invariant Disparity without Training for Zero-Shot Metric Depth Estimation
+<h2>A Simple yet Effective Test-Time Adaptation for Zero-Shot Monocular Metric Depth Estimation
 </h2>
 
 **Rémi Marsal** · **Alexandre Chapoutot** · **Philippe Xu** · **David Filliat**
