@@ -6,11 +6,13 @@
 
 U2IS - ENSTA-Paris
 
+**[[Paper](https://arxiv.org/abs/2412.14103)]** $~$ **[[Video](https://www.youtube.com/watch?v=IsaRFOiHWDQ)]** 
+
 ![teaser](assets/rescaling.png)
 
 </div>
 
-This repository contains the official implementation of the paper *A Simple yet Effective Test-Time Adaptation for Zero-Shot Monocular Metric Depth Estimation*.
+This repository contains the official implementation of the paper [**A Simple yet Effective Test-Time Adaptation for Zero-Shot Monocular Metric Depth Estimation**](https://arxiv.org/abs/2412.14103).
 
 ## Installation
 
