@@ -1,5 +1,6 @@
 <div align="center">
-<h2>A Simple yet Effective Test-Time Adaptation for Zero-Shot Monocular Metric Depth Estimation
+<h2>A Simple yet Effective Test-Time Adaptation for Zero-Shot Monocular Metric Depth Estimation 
+(IROS 2025)
 </h2>
 
 **Rémi Marsal** · **Alexandre Chapoutot** · **Philippe Xu** · **David Filliat**
@@ -12,7 +13,7 @@ U2IS - ENSTA-Paris
 
 </div>
 
-This repository contains the official implementation of the paper [**A Simple yet Effective Test-Time Adaptation for Zero-Shot Monocular Metric Depth Estimation**](https://arxiv.org/abs/2412.14103).
+This repository contains the official implementation of the paper [**A Simple yet Effective Test-Time Adaptation for Zero-Shot Monocular Metric Depth Estimation**](https://arxiv.org/abs/2412.14103) which was accepted to **IROS 2025**.
 
 ## Installation
 
